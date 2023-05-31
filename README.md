@@ -1,6 +1,6 @@
 
   
-  ### 아직은 student_develope 인 박성민입니다.
+  ### 아직은 student_developer 인 박성민입니다.
 
 GBSW3기 소프트웨어 개발과
 
