@@ -32,8 +32,7 @@ GBSW3기 소프트웨어 개발과
 
   ### studying
 
-
-  # A8B9CC
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 
 
