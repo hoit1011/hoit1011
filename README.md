@@ -32,7 +32,7 @@ GBSW3기 소프트웨어 개발과
 
   ### Main Language
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
  ### learning Languege
 
