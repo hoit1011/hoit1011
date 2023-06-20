@@ -30,10 +30,10 @@ GBSW3기 소프트웨어 개발과
 
   
 
-  ###studying
+  ### studying
 
 
-  #A8B9CC
+  # A8B9CC
 
 
 
