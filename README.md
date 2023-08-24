@@ -4,7 +4,7 @@
 
 GBSW3기 소프트웨어 개발과
 
-열심히 공부중📖
+스위프트 잘하고싶다...
 
 <div align="right"> 
   
@@ -41,8 +41,6 @@ GBSW3기 소프트웨어 개발과
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white"/>
-
-스위프트 조낸어렵네;
   
    <!--
 **hoit1011/hoit1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
