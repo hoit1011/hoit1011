@@ -4,8 +4,6 @@
 
 GBSW3기 소프트웨어 개발과
 
-스위프트 잘하고싶다...
-
 <div align="right"> 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F704&width=435&separator=%3C&lines=printf(%22app_Developer%22);)](https://git.io/typing-svg)
