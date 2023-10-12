@@ -40,7 +40,12 @@ GBSW3기 소프트웨어 개발과
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  
+
+--------------------------------------------------------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoit1011&layout=compact&theme=dark)
+
+
    <!--
 **hoit1011/hoit1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
